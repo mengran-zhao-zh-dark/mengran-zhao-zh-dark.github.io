@@ -7,4 +7,4 @@ redirect_from:
   - /resume
 ---
 
-<a href="https://mengran-zhao.github.io/"></a>
+<a href="https://mengran-zhao-dark.github.io/"></a>
